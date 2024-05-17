@@ -4,19 +4,27 @@
 
 The objective of this Power BI project is to analyze the sales performance of SuperStore across various dimensions such as categories, sub-categories, ship modes, regions, and payment modes. Additionally, the project aims to forecast future sales and identify key trends and insights to drive strategic business decisions.
 
+### Project preview - 
+![image](https://github.com/bumblebee28/SuperStore-Sales-Dashboard/assets/59121945/b23420a3-f819-4560-a6ea-eb5a9a236919)
+
+
 ##### This dashboard includes a dynamic slicer feature that allows users to select a specific region. Upon selection, the dashboard updates to display data pertinent to the chosen region. This functionality enhances the interactivity and usability of the dashboard, enabling stakeholders to gain region-specific insights and make informed decisions based on localized data trends.
 
 ## Central Region - 
-![image](https://github.com/bumblebee28/superstore-sales-dashboard/assets/59121945/d204fe32-c526-4126-a1f0-3a7b9e1ea3fd)
+![image](https://github.com/bumblebee28/SuperStore-Sales-Dashboard/assets/59121945/bfbe99d1-f368-4e88-a6fc-44b1ce061e5c)
+
 
 ## East Region -
-![image](https://github.com/bumblebee28/superstore-sales-dashboard/assets/59121945/18128198-d825-449a-bacf-ec8440482624)
+![image](https://github.com/bumblebee28/SuperStore-Sales-Dashboard/assets/59121945/3707dc85-e600-4156-a871-3af557da00c1)
+
 
 ## South Region - 
-![image](https://github.com/bumblebee28/superstore-sales-dashboard/assets/59121945/7aac4a40-d9d0-498c-a605-a59a18c8a0f6)
+![image](https://github.com/bumblebee28/SuperStore-Sales-Dashboard/assets/59121945/eeb77ddc-c820-4b6c-98cb-635abdeadb74)
+
 
 ## West Region - 
-![image](https://github.com/bumblebee28/superstore-sales-dashboard/assets/59121945/bbac7cf5-1227-4e8c-86d8-2bc3b8283ee5)
+![image](https://github.com/bumblebee28/SuperStore-Sales-Dashboard/assets/59121945/26d89ccf-286b-416c-8190-0d9ff1ad1666)
+
 
 
 ### Insights :
